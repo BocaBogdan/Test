@@ -1,1 +1,2 @@
 Aici am al 2-lea fisier.
+Am adaugat o linie in new_branch
